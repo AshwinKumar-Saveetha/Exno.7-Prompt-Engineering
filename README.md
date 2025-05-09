@@ -40,7 +40,7 @@ To explore various prompting techniques for generating audio using AI models. Th
 https://drive.google.com/file/d/1ag0dOF71gK6DY1gMde_9AZBFfiXx6DiH/view?usp=sharing
 
 1. **Focus Music Clip** – Calm piano-based ambient track, loopable.
-``` https://drive.google.com/file/d/1YouQhvXbGw2NpgqreQhieUkZLsp9_lGR/view?usp=sharing ```
+  https://drive.google.com/file/d/1YouQhvXbGw2NpgqreQhieUkZLsp9_lGR/view?usp=sharing 
 2. **Voice Prompt** – Speech clip saying “Time to stretch your legs and hydrate.”
 3. **Sound Effect** – Short notification sound with a soft chime tone.
 
